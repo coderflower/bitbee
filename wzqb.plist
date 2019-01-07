@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://aipe.cc/myapp/puer.ipa</string>
+					<string>http://www.wuzhuqian.com/wzqb-file/other/wzqb.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.PuErMJ</string>
+				<string>com.caiflower.wzq</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>UDID普洱麻将</string>
+				<string>UDID五铢钱</string>
 				<key>title</key>
-				<string>普洱麻将</string>
+				<string>五铢钱</string>
 			</dict>
 		</dict>
 	</array>
