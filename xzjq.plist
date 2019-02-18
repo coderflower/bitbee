@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://admin.qvduoduo.com/xzjq-file/other/ios/xzjq.ipa</string>
+					<string>http://www.qvduoduo.com/xzjq-file/other/ios/xzjq.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.caiflower.XZJQ</string>
 				<key>bundle-version</key>
-				<string>1.0.4</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
