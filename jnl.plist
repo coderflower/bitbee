@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://101.37.67.92/lmqb-file/other/ios/xjy.ipa</string>
+					<string>http://47.111.183.25/jnl-file/other/ios/jnl.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.caiflower.xjy</string>
+				<string>com.caiflower.jnl</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
