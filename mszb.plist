@@ -15,31 +15,25 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
+					<string>display-image</string>
 					<key>url</key>
-					<string></string>
+					<string>http://www.hzhanying.com/xyb-file/user/2019/12/15/logo20191215233651.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
+					<string>full-size-image</string>
 					<key>url</key>
-					<string></string>
+					<string>http://www.hzhanying.com/xyb-file/user/2019/12/15/logo20191215233651.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.DarcyChiu.Trader</string>
+				<string>com.MaShangZhuanBei.root</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>UDID策略大师</string>
 				<key>title</key>
 				<string>马上赚呗</string>
 			</dict>
